@@ -1,16 +1,16 @@
 dotronglong-hide-me:
     admin:
         permissions:
-            see_author: 查看文章作者
+            see_author: See post's author
     forum:
         modal:
             title: Hide Me
-            submit: 儲存
-            privacy_label: 發文身分
-            privacy_public_label: 一般
-            privacy_public_info: 所有人可以看見您的名稱。
-            privacy_anonymous_label: 匿名
-            privacy_anonymous_info: 匿名發文。
+            submit: Save
+            privacy_label: How to show your identity?
+            privacy_public_label: Public Mode
+            privacy_public_info: Your identity will be visible to everyone.
+            privacy_anonymous_label: Anonymous Mode
+            privacy_anonymous_info: Show as anonymous. You can still edit post.
     anonymous:
-        username: "匿名"
-        display_name: "匿名"
+        username: "[hidden]"
+        display_name: "[hidden]"
